@@ -8,7 +8,6 @@ The findings not only contribute to the academic understanding of real estate va
 ## Repository Structure
 data/: Contains the dataset used in the study, including property listings and supplementary data.
 
-notebooks/: Jupyter notebooks demonstrating data preprocessing, exploratory data analysis, feature engineering, and model development.
 
 models/: Trained machine learning models and their respective configurations.
 
