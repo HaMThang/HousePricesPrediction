@@ -43,3 +43,6 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 Contact
 For any questions or inquiries, please contact [your-email@example.com].
 Feel free to customize the content based on your specific project details and requirements. This README.md template provides an overview of your study, the repository structure, installation instructions, usage guidelines, information about the web application, and other relevant details for people who visit your GitHub repository
+
+
+*Note: Some links leading to files need to be fixed.
