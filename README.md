@@ -7,11 +7,17 @@ The results demonstrate the superiority of ensemble methods, with CatBoost achie
 The findings not only contribute to the academic understanding of real estate valuation but also provide actionable insights for policymakers, investors, and other stakeholders. This study lays the groundwork for the development of automated valuation models (AVMs) and their practical implementation, exemplified by a web application (https://hathang-housepricceprediction.hf.space/). By harnessing the power of machine learning and data-driven insights, this research paves the way for more transparent, efficient, and informed decision-making in Vietnam's real estate sector.
 ## Repository Structure
 data/: Contains the dataset used in the study, including property listings and supplementary data.
+
 notebooks/: Jupyter notebooks demonstrating data preprocessing, exploratory data analysis, feature engineering, and model development.
+
 models/: Trained machine learning models and their respective configurations.
+
 src/: Source code for data preprocessing, feature engineering, model training, and evaluation.
+
 web_app/: Code and resources for the web application that demonstrates the practical implementation of the house price prediction framework.
+
 README.md: Overview of the project and instructions for running the code.
+
 requirements.txt: List of required Python packages and their versions.
 
 ## Installation
